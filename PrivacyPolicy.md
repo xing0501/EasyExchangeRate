@@ -1,5 +1,5 @@
 隱私權政策 (Privacy Policy) 
-發佈注意事項： 請將此文件發佈到一個獨立的網頁連結上，例如 [您的網站]/privacy-policy。
+https://github.com/xing0501/EasyExchangeRate/blob/main/PrivacyPolicy.md。
 
 隱私權政策
 
