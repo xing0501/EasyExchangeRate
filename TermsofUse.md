@@ -1,5 +1,5 @@
 使用條款 (EULA) 
-發佈注意事項： 請將此文件發佈到一個獨立的網頁連結上，例如 [您的網站]/terms-of-use。
+https://github.com/xing0501/EasyExchangeRate/edit/main/TermsofUse.md
 
 最終用戶許可協議 (EULA)
 
